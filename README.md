@@ -1,4 +1,4 @@
-<title align=center>Hi there 👋</title>
+<h1 align=center>Hi there 👋</h1>
 
 <!--
 **marshallthesecond/marshallthesecond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
