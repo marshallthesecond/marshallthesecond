@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📊 Working on: Student performance prediction using linear regression
+🧪 Learning: Model evaluation, feature engineering, and deployment basics
