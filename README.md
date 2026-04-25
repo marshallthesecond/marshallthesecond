@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-<br>
 
 - 📊 Working on: Student performance prediction using linear regression
 - 🧪 Learning: Model evaluation, feature engineering, and deployment basics
