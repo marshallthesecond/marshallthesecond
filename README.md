@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 - **ML/Data**: Scikit-learn, Pandas, NumPy, Matplotlib
 - **Concepts**: Regression, classification, data preprocessing
 - **Tools**: Git/GitHub, Jupyter Notebook
+
+## Connect
+- Email: shmardonov05@gmail.com
