@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 📊 Working on: Student performance prediction using linear regression
 - 🧪 Learning: Model evaluation, feature engineering, and deployment basics
 
+
+
 ## Stack
 - **Languages**: Python, SQL, NodeJS/Express.js, React
 - **ML/Data**: Scikit-learn, Pandas, NumPy, Matplotlib
