@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 <br>
 
+## I am currently
+- 3rd year student at WIUT majoring in Computer Science
 - 📊 Working on: Student performance prediction using linear regression
 - 🧪 Learning: Model evaluation, feature engineering, and deployment basics
 <br>
