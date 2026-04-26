@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
+<!-- <br> -->
 
 ## I am currently
 - 3rd year student at WIUT majoring in Computer Science
