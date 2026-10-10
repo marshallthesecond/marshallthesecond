@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 <!-- <br> -->
 
 ## I am currently
-- 3rd year student at WIUT majoring in Computer Science
-- 📊 Working on: Student performance prediction using linear regression
-- 🧪 Learning: Model evaluation, feature engineering, and deployment basics
-<br>
+- 4th year student at WIUT majoring in Computer Science
+- 📊 Working on: Final Year Copmuter Science Project - Uncertainty measurement: do prediction intervals stay reliable when data changes over time?
 
 ## Stack
-- **Languages**: Python, SQL, NodeJS/Express.js, React
+- **Languages**: Python, SQL, NodeJS/Express.js, NextJS, React
 - **ML/Data**: Scikit-learn, Pandas, NumPy, Matplotlib
 - **Concepts**: Regression, classification, data preprocessing
 - **Tools**: Git/GitHub, Jupyter Notebook
